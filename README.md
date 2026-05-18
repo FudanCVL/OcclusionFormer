@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size:36px; line-height:1.05; font-weight:900; margin:0;">
-  <img src="./assets/image.png" alt="Logo" style="height:1.00em; width:auto; vertical-align:bottom; margin-right:-0.08em;">
+  <img src="./assets/image.png" alt="Logo" style="height:1.00em; width:auto; vertical-align:middle; margin-right:-0.08em;">
   OcclusionFormer: Arranging Z-Order<br>for Layout-Grounded Image Generation
 </h1>
 
