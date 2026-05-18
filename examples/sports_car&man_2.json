@@ -1,0 +1,42 @@
+{
+  "prompt": "a red sports car and a green sports car parking and a man standing on the street",
+  "caption": "a red sports car and a green sports car parking and a man standing on the street",
+  "height": 1024,
+  "width": 1024,
+  "annos": [
+    {
+      "bbox": [
+        0,
+        412,
+        760,
+        773
+      ],
+      "caption": "red sports car",
+      "category_name": "car",
+      "occludes": ""
+    },
+    {
+      "bbox": [
+        251,
+        415,
+        1021,
+        771
+      ],
+      "caption": "green sports car",
+      "category_name": "car",
+      "occludes": "1"
+    },
+    {
+      "bbox": [
+        407,
+        138,
+        617,
+        768
+      ],
+      "caption": "a man in white shirt",
+      "category_name": "man",
+      "occludes": "1,2"
+    }
+  ],
+  "seed": 67
+}

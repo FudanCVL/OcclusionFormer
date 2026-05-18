@@ -1,0 +1,14 @@
+tqdm==4.67.1
+diffusers==0.34.0
+accelerate==1.1.1
+transformers==4.44.0
+peft==0.16.0
+sentencepiece==0.2.0
+protobuf==5.28.0
+opencv-python==4.8.1.78
+streamlit==1.51.0
+streamlit_drawable_canvas==0.9.3
+streamlit-aggrid==1.2.0.post1
+torch==2.9.1
+torchvision==0.24.1
+torchaudio==2.9.1

@@ -1,0 +1,31 @@
+{
+  "prompt": "a tiger with a girl walking on the beach",
+  "caption": "a tiger with a girl walking on the beach",
+  "height": 1024,
+  "width": 1024,
+  "annos": [
+    {
+      "bbox": [
+        161,
+        545,
+        845,
+        858
+      ],
+      "caption": "tiger",
+      "category_name": "tiger",
+      "occludes": ""
+    },
+    {
+      "bbox": [
+        399,
+        369,
+        579,
+        860
+      ],
+      "caption": "girl",
+      "category_name": "girl",
+      "occludes": "1"
+    }
+  ],
+  "seed": 72
+}

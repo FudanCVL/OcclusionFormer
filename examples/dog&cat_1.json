@@ -1,0 +1,31 @@
+{
+  "prompt": "a black cat and a white dog lying on the living room",
+  "caption": "a black cat and a white dog lying on the living room",
+  "height": 1024,
+  "width": 1024,
+  "annos": [
+    {
+      "bbox": [
+        54,
+        463,
+        673,
+        778
+      ],
+      "caption": "black cat",
+      "category_name": "cat",
+      "occludes": ""
+    },
+    {
+      "bbox": [
+        307,
+        461,
+        942,
+        778
+      ],
+      "caption": "white dog",
+      "category_name": "dog",
+      "occludes": "1"
+    }
+  ],
+  "seed": 80
+}

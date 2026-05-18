@@ -1,0 +1,31 @@
+{
+  "prompt": "A close-up cinematic photo of a brown furry teddy bear sitting next to an old, bulky CRT monitor on a wooden table. Soft nostalgic room lighting, warm tones, high-quality textures, 8k resolution.",
+  "caption": "A close-up cinematic photo of a brown furry teddy bear sitting next to an old, bulky CRT monitor on a wooden table. Soft nostalgic room lighting, warm tones, high-quality textures, 8k resolution.",
+  "height": 1024,
+  "width": 1024,
+  "annos": [
+    {
+      "bbox": [
+        166,
+        374,
+        453,
+        812
+      ],
+      "caption": "a cute brown plush teddy bear with soft fluffy fur, looking forward",
+      "category_name": "teddy",
+      "occludes": "2"
+    },
+    {
+      "bbox": [
+        297,
+        312,
+        934,
+        911
+      ],
+      "caption": "a vintage beige CRT computer monitor, nostalgic 90s style, matte plastic texture",
+      "category_name": "CRT Monitor",
+      "occludes": ""
+    }
+  ],
+  "seed": 50
+}

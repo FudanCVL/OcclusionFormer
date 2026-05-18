@@ -1,0 +1,42 @@
+{
+  "prompt": "Three teddy bears—one red, one blue, and one yellow—are sitting side by side on the living room sofa.",
+  "caption": "Three teddy bears—one red, one blue, and one yellow—are sitting side by side on the living room sofa.",
+  "height": 1024,
+  "width": 1024,
+  "annos": [
+    {
+      "bbox": [
+        141,
+        305,
+        486,
+        804
+      ],
+      "caption": "red teddy bear",
+      "category_name": "teddy",
+      "occludes": ""
+    },
+    {
+      "bbox": [
+        338,
+        305,
+        686,
+        806
+      ],
+      "caption": "blue teddy bear",
+      "category_name": "teddy",
+      "occludes": "1,3"
+    },
+    {
+      "bbox": [
+        545,
+        307,
+        868,
+        806
+      ],
+      "caption": "yellow teddy bear",
+      "category_name": "teddy",
+      "occludes": ""
+    }
+  ],
+  "seed": 48
+}

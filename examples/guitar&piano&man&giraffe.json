@@ -1,0 +1,53 @@
+{
+  "prompt": "A piano sits in the living room, with a man and a giraffe standing behind it and a guitar placed in front.",
+  "caption": "A piano sits in the living room, with a man and a giraffe standing behind it and a guitar placed in front.",
+  "height": 1024,
+  "width": 1024,
+  "annos": [
+    {
+      "bbox": [
+        113,
+        451,
+        893,
+        986
+      ],
+      "caption": "piano",
+      "category_name": "piano",
+      "occludes": "2,3"
+    },
+    {
+      "bbox": [
+        686,
+        274,
+        947,
+        957
+      ],
+      "caption": "man",
+      "category_name": "man",
+      "occludes": ""
+    },
+    {
+      "bbox": [
+        44,
+        51,
+        484,
+        945
+      ],
+      "caption": "giraffe",
+      "category_name": "giraffe",
+      "occludes": ""
+    },
+    {
+      "bbox": [
+        369,
+        471,
+        614,
+        1016
+      ],
+      "caption": "guitar",
+      "category_name": "guitar",
+      "occludes": "1,3"
+    }
+  ],
+  "seed": 77
+}

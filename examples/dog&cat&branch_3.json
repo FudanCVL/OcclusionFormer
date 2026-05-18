@@ -1,0 +1,42 @@
+{
+  "prompt": "a white dog and a black cat in the forest with a branch",
+  "caption": "a white dog and a black cat in the forest with a branch",
+  "height": 1024,
+  "width": 1024,
+  "annos": [
+    {
+      "bbox": [
+        0,
+        420,
+        1019,
+        527
+      ],
+      "caption": "branch",
+      "category_name": "branch",
+      "occludes": "2,3"
+    },
+    {
+      "bbox": [
+        77,
+        169,
+        499,
+        822
+      ],
+      "caption": "white dog",
+      "category_name": "white dog",
+      "occludes": ""
+    },
+    {
+      "bbox": [
+        497,
+        172,
+        940,
+        822
+      ],
+      "caption": "black cat",
+      "category_name": "black cat",
+      "occludes": ""
+    }
+  ],
+  "seed": 48
+}

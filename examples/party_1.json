@@ -1,0 +1,75 @@
+{
+  "prompt": "A detailed, close-up photograph of a tightly-knit group of six smiling young adults in a modern, light-filled interior. In the foreground, two women face the camera, the one on the left with long dark hair wearing a black long-sleeved crop top and blue jeans, smiling gently. The woman on the right has long blonde hair, wearing a white blouse with a floral pattern and smocking, smiling broadly. Behind them, visible between and around, are three smiling men and another woman (seen mostly in profile). Far left, the side of a woman with long dark hair wearing a grey sweater and a silver necklace is visible. Behind the central dark-haired woman, a man with short brown hair in a dark shirt is smiling. In the back center, another man with short brown hair and a beard in a dark navy polo is smiling. Far right, another smiling man with brown hair in a dark jacket is present. The background shows light wood paneling, a wooden pillar, and a large window with a view to an outdoor patio with a concrete floor and some outdoor furniture under bright daylight. The focus is sharp on the foreground women, with a slightly shallower depth of field, capturing a warm, genuine group moment. The lighting is natural indoor light.",
+  "caption": "A detailed, close-up photograph of a tightly-knit group of six smiling young adults in a modern, light-filled interior. In the foreground, two women face the camera, the one on the left with long dark hair wearing a black long-sleeved crop top and blue jeans, smiling gently. The woman on the right has long blonde hair, wearing a white blouse with a floral pattern and smocking, smiling broadly. Behind them, visible between and around, are three smiling men and another woman (seen mostly in profile). Far left, the side of a woman with long dark hair wearing a grey sweater and a silver necklace is visible. Behind the central dark-haired woman, a man with short brown hair in a dark shirt is smiling. In the back center, another man with short brown hair and a beard in a dark navy polo is smiling. Far right, another smiling man with brown hair in a dark jacket is present. The background shows light wood paneling, a wooden pillar, and a large window with a view to an outdoor patio with a concrete floor and some outdoor furniture under bright daylight. The focus is sharp on the foreground women, with a slightly shallower depth of field, capturing a warm, genuine group moment. The lighting is natural indoor light.",
+  "height": 1024,
+  "width": 1024,
+  "annos": [
+    {
+      "bbox": [
+        172,
+        143,
+        658,
+        1021
+      ],
+      "caption": "A woman with long dark hair seen in left profile, wearing a grey sweater and a delicate silver necklace, smiling slightly.",
+      "category_name": "girl",
+      "occludes": "2,3,4,5"
+    },
+    {
+      "bbox": [
+        0,
+        174,
+        279,
+        1021
+      ],
+      "caption": "A woman with long dark brown hair, wearing a black long-sleeved crop top and blue jeans, smiling at the camera from the foreground center.",
+      "category_name": "girl",
+      "occludes": "4"
+    },
+    {
+      "bbox": [
+        612,
+        189,
+        1016,
+        1019
+      ],
+      "caption": "A woman with long blonde hair, wearing a white blouse with a floral pattern, smiling brightly at the camera from the foreground right.",
+      "category_name": "girl",
+      "occludes": "5,6"
+    },
+    {
+      "bbox": [
+        38,
+        15,
+        417,
+        1019
+      ],
+      "caption": "A smiling young man with short brown hair, wearing a dark grey shirt, standing in the back row on the left.",
+      "category_name": "man",
+      "occludes": ""
+    },
+    {
+      "bbox": [
+        474,
+        36,
+        799,
+        1019
+      ],
+      "caption": "A smiling young man with short brown hair and a beard, wearing a dark navy blue polo, standing in the back row center.",
+      "category_name": "man",
+      "occludes": ""
+    },
+    {
+      "bbox": [
+        796,
+        36,
+        1021,
+        1019
+      ],
+      "caption": "A smiling young man with brown hair, wearing a dark jacket, standing in the back row on the right.",
+      "category_name": "man",
+      "occludes": ""
+    }
+  ],
+  "seed": 42
+}

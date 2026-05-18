@@ -1,0 +1,42 @@
+{
+  "prompt": "A cinematic nighttime photo of a girl standing in a quiet park under the warm glow of a vintage streetlight. A rustic wooden bench sits quietly nearby. Moody ambient lighting, soft shadows, 8k resolution, cinematic composition.",
+  "caption": "A cinematic nighttime photo of a girl standing in a quiet park under the warm glow of a vintage streetlight. A rustic wooden bench sits quietly nearby. Moody ambient lighting, soft shadows, 8k resolution, cinematic composition.",
+  "height": 1024,
+  "width": 1024,
+  "annos": [
+    {
+      "bbox": [
+        218,
+        376,
+        474,
+        870
+      ],
+      "caption": "a young girl standing gracefully, looking into the distance",
+      "category_name": "girl",
+      "occludes": ""
+    },
+    {
+      "bbox": [
+        100,
+        591,
+        893,
+        870
+      ],
+      "caption": "a classic wooden park bench with natural wood texture",
+      "category_name": "bench",
+      "occludes": "1"
+    },
+    {
+      "bbox": [
+        576,
+        97,
+        701,
+        868
+      ],
+      "caption": "a vintage metal streetlight emitting warm yellow light",
+      "category_name": "streetlight",
+      "occludes": "2"
+    }
+  ],
+  "seed": 48
+}

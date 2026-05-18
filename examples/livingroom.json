@@ -1,0 +1,119 @@
+{
+  "prompt": "A spacious room with a wooden floor and white walls. In the background, a classic round clock hangs on the wall. A real giraffe stands on the floor beside a dark wooden upright piano, next to a vase of colorful flowers placed on top of the piano. A man in a dark blue shirt stands behind the piano. In the center, an orange teddy bear sits on a beige sofa. In the foreground, there is a black road bicycle on the left, a round wooden table in the middle, and a black rolling suitcase on the right.",
+  "caption": "A spacious room with a wooden floor and white walls. In the background, a classic round clock hangs on the wall. A real giraffe stands on the floor beside a dark wooden upright piano, next to a vase of colorful flowers placed on top of the piano. A man in a dark blue shirt stands behind the piano. In the center, an orange teddy bear sits on a beige sofa. In the foreground, there is a black road bicycle on the left, a round wooden table in the middle, and a black rolling suitcase on the right.",
+  "height": 1024,
+  "width": 1024,
+  "annos": [
+    {
+      "bbox": [
+        125,
+        479,
+        886,
+        829
+      ],
+      "caption": "A beige sofa.",
+      "category_name": "Sofa",
+      "occludes": "4,7,10"
+    },
+    {
+      "bbox": [
+        378,
+        435,
+        624,
+        787
+      ],
+      "caption": "An orange teddy bear wearing a red bow tie.",
+      "category_name": "Teddy Bear",
+      "occludes": "1,4,7"
+    },
+    {
+      "bbox": [
+        210,
+        586,
+        796,
+        934
+      ],
+      "caption": "A round wooden table.",
+      "category_name": "Table",
+      "occludes": "1,2,4,7"
+    },
+    {
+      "bbox": [
+        51,
+        338,
+        973,
+        748
+      ],
+      "caption": "A dark wooden upright piano.",
+      "category_name": "Piano",
+      "occludes": "10"
+    },
+    {
+      "bbox": [
+        3,
+        663,
+        453,
+        1021
+      ],
+      "caption": "A black road bicycle.",
+      "category_name": "Bicycle",
+      "occludes": "1,2,3,4"
+    },
+    {
+      "bbox": [
+        837,
+        571,
+        1019,
+        1019
+      ],
+      "caption": "A black rolling suitcase.",
+      "category_name": "Luggage",
+      "occludes": "1,4,10"
+    },
+    {
+      "bbox": [
+        207,
+        41,
+        619,
+        722
+      ],
+      "caption": "a large stuffed giraffe stands on a dark wooden upright piano",
+      "category_name": "Giraffe",
+      "occludes": "4"
+    },
+    {
+      "bbox": [
+        20,
+        56,
+        187,
+        230
+      ],
+      "caption": "A classic round wall clock with Roman numerals.",
+      "category_name": "Clock",
+      "occludes": ""
+    },
+    {
+      "bbox": [
+        630,
+        146,
+        799,
+        335
+      ],
+      "caption": "A vase filled with colorful flowers.",
+      "category_name": "Vase",
+      "occludes": ""
+    },
+    {
+      "bbox": [
+        842,
+        143,
+        1016,
+        658
+      ],
+      "caption": "A man wearing a dark blue shirt and blue jeans.",
+      "category_name": "Man",
+      "occludes": ""
+    }
+  ],
+  "seed": 75
+}
