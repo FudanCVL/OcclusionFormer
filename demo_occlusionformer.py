@@ -699,9 +699,9 @@ def load_flux_bundle(
 def sidebar_controls() -> GenSettings:
     with st.sidebar:
         st.subheader("Model Setting")
-        model_type = st.selectbox("Backbone Model", ["Flux.1-dev", "Flux.1-schnell"], index=0, key="model_type", on_change=_reset_on_model_type_change)
+        model_type = st.selectbox("Backbone Model", ["Flux.1-dev""], index=0, key="model_type", on_change=_reset_on_model_type_change)
         _reset_on_model_type_change()
-        model_path = st.text_input("model_id/model_path（Backbone）", value="/home/volume_shared/share_datasets/data_nvme_3/pretrained_weights/FLUX.1-dev/")
+        model_path = st.text_input("model_id/model_path（Backbone）", value="black-forest-labs/FLUX.1-dev")
         ckpt_path = st.text_input("ckpt_path", value=st.session_state["ckpt_path"], help="including pytorch_lora_weights.safetensors and layout.pth")
         
         cfg_triple = (
