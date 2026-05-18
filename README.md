@@ -7,7 +7,7 @@
 <a href='https://henghuiding.com/OcclusionFormer/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href='https://icml.cc/Downloads/2026'><img src='https://img.shields.io/badge/ICML-2026-blue'></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href='https://arxiv.org/'><img src='https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b'></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href='https://huggingface.co/'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Weights-Hugging Face%20-orange'></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://huggingface.co/FudanCVL/OcclusionFormer'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Weights-Hugging Face%20-orange'></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href='https://huggingface.co/datasets/FudanCVL/SA-Z'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20SA--Z-Hugging Face%20-orange'></a>
 </div>
 <p align="center" style="margin:4px 0 0 0;">
